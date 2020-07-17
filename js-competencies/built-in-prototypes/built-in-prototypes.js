@@ -11,7 +11,11 @@
   
   //Code here
 
-
+function dragonMapper(arr){
+  arr.map(function(el,i,arr){
+    
+  })
+}
 
 //////////////////PROBLEM 2////////////////////
 

@@ -11,7 +11,12 @@
 var sunsetColors = ["brown", "purple", "pink", "red", "orange", "yellow"]
 
 //Code here
-
+let sunset = () => {
+    sunsetColors.map(function(el,i,arr){
+        sunsetColors[0] = 'blue'
+    })
+return sunset
+}
 
 //////////////////PROBLEM 2////////////////////
 
